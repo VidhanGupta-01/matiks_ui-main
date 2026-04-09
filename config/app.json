@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Matiks Score Reveal",
+    "slug": "matiks-score-reveal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0A0F"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-haptics"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0F"
+      },
+      "package": "com.matiks.scorreveal"
+    },
+    "ios": {
+      "bundleIdentifier": "com.matiks.scorereveal",
+      "supportsTablet": false
+    },
+    "scheme": "matiks",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
