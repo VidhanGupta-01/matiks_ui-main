@@ -135,7 +135,7 @@ The multiplied value drives the display number, creating the "ticks past and sna
 
 ## Screenshots
 
-> Run the app and you'll see — static screenshots don't do animations justice.
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/95c20b71-4b99-4c6b-8ab1-02c074dfca78" />
 
 ---
 
